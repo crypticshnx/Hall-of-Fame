@@ -36,7 +36,13 @@
       "fun_fact": "I love video games",
       "year_started_programming": 2018
     },
-
+    {
+      "name": "Alexander Urena",
+      "major": "Game Programming",
+      "favorite_cp_app": "Instagram Clone",
+      "fun_fact": "I write stories on the internet",
+      "year_started_programming": 2018
+    }
 
   ]
 }
