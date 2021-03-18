@@ -18,6 +18,14 @@
       "favorite_cp_app": "Tik tok",
       "fun_fact": "I teach students to code!",
       "year_started_programming": 2016
+    },
+    {
+      "id": 1,
+      "name": "Dreon Wheatley - Owens",
+      "major": "Computer Science",
+      "favorite_cp_app": "Twitter clone",
+      "fun_fact": "I have had lots of pets before!",
+      "year_started_programming": 2017
     }
 
 
