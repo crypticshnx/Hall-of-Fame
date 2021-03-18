@@ -28,7 +28,7 @@
       "favorite_cp_app": "Twitter App",
       "fun_fact": "I like to play Soccer",
       "year_started_programming": 2018
-    }
+    },
     {
       "name": "Delvon Rowley Hayes",
       "major": "Computer Science",
@@ -48,6 +48,14 @@
       "major": "Computer Science",
       "favorite_cp_app": "Twitter Clone",
       "fun_fact": "I love video games",
+      "year_started_programming": 2018
+    },
+
+    {
+      "name": "Monica Howze",
+      "major": "Computer Science",
+      "favorite_cp_app": "Flixster",
+      "fun_fact": "I like cooking",
       "year_started_programming": 2018
     }
   ]
