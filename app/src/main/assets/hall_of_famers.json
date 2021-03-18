@@ -28,7 +28,7 @@
       "favorite_cp_app": "Twitter App",
       "fun_fact": "I like to play Soccer",
       "year_started_programming": 2018
-    }
+    },
     {
       "name": "Delvon Rowley Hayes",
       "major": "Computer Science",
@@ -57,6 +57,14 @@
       "favorite_cp_app": "Twitter Clone",
       "fun_fact": "I like movies!",
       "year_started_programming": 2019
+    },
+    {
+      "name": "Ezequiel Soler",
+      "major": "Computer Science",
+      "favorite_cp_app": "Instagram Clone",
+      "fun_fact": "I am bilingual I can speak both English and Spanish",
+      "year_started_programming": 2019
     }
+
   ]
 }
