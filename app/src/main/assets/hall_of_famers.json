@@ -19,15 +19,30 @@
       "fun_fact": "I teach students to code!",
       "year_started_programming": 2016
     },
-
     {
-      "name": "Lilian Ofik",
+      "_comment1": "Like to party and go to the Beach",
+      "_comment2": "I am from Jamaica",
+      "id": 1,
+      "name": "Chervon Dawkins",
       "major": "Computer Science",
-      "favorite_cp_app": "Twitter",
-      "fun_fact": "I like movies!",
-      "year_started_programming": 2019
+      "favorite_cp_app": "Twitter App",
+      "fun_fact": "I like to play Soccer",
+      "year_started_programming": 2018
     }
-
+    {
+      "name": "Delvon Rowley Hayes",
+      "major": "Computer Science",
+      "favorite_cp_app": "Twitter Clone",
+      "fun_fact": "I love video games",
+      "year_started_programming": 2018
+    },
+    {
+      "name": "Alexander Urena",
+      "major": "Game Programming",
+      "favorite_cp_app": "Instagram Clone",
+      "fun_fact": "I write stories on the internet",
+      "year_started_programming": 2018
+    }
 
   ]
 }
