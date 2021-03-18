@@ -8,6 +8,18 @@
       "favorite_cp_app": "Instagram Clone",
       "fun_fact": "I teach students to code!",
       "year_started_programming": 2016
+    },
+    {
+      "_comment1": "I love this class",
+      "_comment2": "I am from Jamaica",
+      "id": 1,
+      "name": "Denise Daniels",
+      "major": "Computer Science",
+      "favorite_cp_app": "Tik tok",
+      "fun_fact": "I teach students to code!",
+      "year_started_programming": 2016
     }
+
+
   ]
 }
