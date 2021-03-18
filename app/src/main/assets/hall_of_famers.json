@@ -57,15 +57,6 @@
       "favorite_cp_app": "Twitter Clone",
       "fun_fact": "I like movies!",
       "year_started_programming": 2019
-    },
-    {
-      "id": 1,
-      "name": "Dreon Wheatley - Owens",
-      "major": "Computer Science",
-      "favorite_cp_app": "Twitter clone",
-      "fun_fact": "I have had lots of pets before!",
-      "year_started_programming": 2017
     }
-
   ]
 }
