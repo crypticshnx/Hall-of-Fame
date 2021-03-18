@@ -8,6 +8,14 @@
       "favorite_cp_app": "Instagram Clone",
       "fun_fact": "I teach students to code!",
       "year_started_programming": 2016
+    },
+
+    {
+      "name": "Lilian Ofik",
+      "major": "Computer Science",
+      "favorite_cp_app": "Flixter",
+      "fun_fact": "I like movies!",
+      "year_started_programming": 2019
     }
   ]
 }
