@@ -18,8 +18,13 @@
       "favorite_cp_app": "Tik tok",
       "fun_fact": "I teach students to code!",
       "year_started_programming": 2016
+    },
+    {
+      "name": "Alexander Urena",
+      "major": "Game Programming",
+      "favorite_cp_app": "Instagram Clone",
+      "fun_fact": "I write stories on the internet",
+      "year_started_programming": 2018
     }
-
-
-  ]
+      ]
 }
