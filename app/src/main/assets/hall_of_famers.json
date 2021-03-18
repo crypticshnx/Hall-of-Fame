@@ -1,42 +1,12 @@
 {
   "stars": [
     {
-      "_comment1": "Follow this template to add your Hall of Fame entry",
-      "_comment2": "Feel free to exclude these comments from your entry",
-      "name": "Ahmad Napier",
-      "major": "Computer Science",
-      "favorite_cp_app": "Instagram Clone",
-      "fun_fact": "I teach students to code!",
-      "year_started_programming": 2016
-    },
-    {
-      "_comment1": "I love this class",
-      "_comment2": "I am from Jamaica",
       "id": 1,
-      "name": "Denise Daniels",
+      "name": "Nicholas Dasilva",
       "major": "Computer Science",
-      "favorite_cp_app": "Tik tok",
-      "fun_fact": "I teach students to code!",
-      "year_started_programming": 2016
-    },
-    {
-      "_comment1": "Like to party and go to the Beach",
-      "_comment2": "I am from Jamaica",
-      "id": 1,
-      "name": "Chervon Dawkins",
-      "major": "Computer Science",
-      "favorite_cp_app": "Twitter App",
-      "fun_fact": "I like to play Soccer",
-      "year_started_programming": 2018
+      "favorite_cp_app": "Flixster",
+      "fun_fact": "I love driving",
+      "year_started_programming": 2019
     }
-    {
-      "name": "Delvon Rowley Hayes",
-      "major": "Computer Science",
-      "favorite_cp_app": "Twitter Clone",
-      "fun_fact": "I love video games",
-      "year_started_programming": 2018
-    },
-
-
   ]
 }
