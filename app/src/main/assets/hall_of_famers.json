@@ -20,14 +20,29 @@
       "year_started_programming": 2016
     },
     {
+      "_comment1": "Like to party and go to the Beach",
+      "_comment2": "I am from Jamaica",
       "id": 1,
-      "name": "Dreon Wheatley - Owens",
+      "name": "Chervon Dawkins",
       "major": "Computer Science",
-      "favorite_cp_app": "Twitter clone",
-      "fun_fact": "I have had lots of pets before!",
-      "year_started_programming": 2017
+      "favorite_cp_app": "Twitter App",
+      "fun_fact": "I like to play Soccer",
+      "year_started_programming": 2018
+    },
+    {
+      "name": "Delvon Rowley Hayes",
+      "major": "Computer Science",
+      "favorite_cp_app": "Twitter Clone",
+      "fun_fact": "I love video games",
+      "year_started_programming": 2018
+    },
+    {
+      "name": "Alexander Urena",
+      "major": "Game Programming",
+      "favorite_cp_app": "Instagram Clone",
+      "fun_fact": "I write stories on the internet",
+      "year_started_programming": 2018
     }
-
 
   ]
 }
