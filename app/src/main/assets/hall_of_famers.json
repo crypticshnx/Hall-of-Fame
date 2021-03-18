@@ -64,6 +64,14 @@
       "favorite_cp_app": "Instagram Clone",
       "fun_fact": "I am bilingual I can speak both English and Spanish",
       "year_started_programming": 2019
+    },
+
+    {
+      "name": "Monica Howze",
+      "major": "Computer Science",
+      "favorite_cp_app": "Flister",
+      "fun_fact": "I like anime",
+      "year_started_programming": 2019
     }
 
   ]
